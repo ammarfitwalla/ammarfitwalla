@@ -15,9 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ammarfitwalla&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ammarfitwalla)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ammarfitwalla&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
