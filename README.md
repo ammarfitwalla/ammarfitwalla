@@ -24,5 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ammarfitwalla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[[link](https://www.buymeacoffee.com/ammarfitwalla)](doc:linking-to-pages#anchor-links)
-![🧋](https://www.buymeacoffee.com/ammarfitwalla)
+![Buy me a coffee!🧋](https://www.buymeacoffee.com/ammarfitwalla)
