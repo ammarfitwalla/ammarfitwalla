@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Society-Maintenance-System.<br>👯 I'm looking to collaborate on interesting open-source projects<br>🌱 I’m currently learning MLOPs<br>💬 Ask me about Python/ML/DL/Django/Flask
+🔭 I'm currently working on AI Forex Bot.<br>👯 I'm looking to collaborate on interesting open-source projects<br>🌱 I’m currently learning MLOPs<br>💬 Ask me about Python/ML/DL/Django/Flask
 
 
 ## 🌐 Socials:
