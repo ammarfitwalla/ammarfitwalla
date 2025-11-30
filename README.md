@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ammar Fitwalla
 
-### 🚀 AI Engineer | Machine Learning Enthusiast | Full-Stack Developer
+### 🚀 AI & Machine Learning Engineer | Full-Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;MLOps+Practitioner;Open+Source+Contributor" alt="Typing SVG" />
 
