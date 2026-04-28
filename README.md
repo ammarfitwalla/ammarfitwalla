@@ -2,6 +2,14 @@
 
 AI/ML Engineer based in Mumbai. I build intelligent systems — from multi-agent pipelines and LLM-powered tools to computer vision apps. Currently working on Google Cloud AI acceleration at Cognizant.
 
+**Open to:** Freelance · Open Source · Full-time opportunities
+
+---
+
+## Stack
+
+Python · PyTorch · LangChain · LangGraph · FastAPI · Vertex AI · Gemini · RAG · Docker · GCP · AWS
+
 ---
 
 ## Projects
@@ -49,6 +57,10 @@ AI/ML Engineer based in Mumbai. I build intelligent systems — from multi-agent
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+---
+
+[ammarf.com](https://ammarf.com) · [LinkedIn](https://linkedin.com/in/ammarfitwalla) · [Twitter](https://twitter.com/ammarfitwalla) · [Instagram](https://instagram.com/ammarfitwalla) · [Buy me a coffee](https://www.buymeacoffee.com/ammarfitwalla)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ammarfitwalla&style=flat)
 
