@@ -14,31 +14,61 @@ Python · PyTorch · LangChain · LangGraph · FastAPI · Vertex AI · Gemini ·
 
 ## Projects
 
+### 🤖 Agents & LLMs
+*LangGraph · LangChain · Ollama · OpenAI · Gemini · FastAPI*
+
 | Repo | Description |
 |------|-------------|
-| [justitia-lens](https://github.com/ammarfitwalla/justitia-lens) | Multimodal forensic AI platform — cross-references police reports against bodycam footage using a three-agent architecture |
-| [job-agent-ammar](https://github.com/ammarfitwalla/job-agent-ammar) | Agentic job search assistant |
+| [justitia-lens](https://github.com/ammarfitwalla/justitia-lens) | Multimodal forensic AI platform — cross-references police reports against bodycam footage using a three-agent architecture (Next.js, FastAPI, Gemini) |
 | [agentic-ai](https://github.com/ammarfitwalla/agentic-ai) | Experiments with agentic AI systems and multi-step reasoning |
-| [data-science](https://github.com/ammarfitwalla/data-science) | Data science notebooks and project portfolio |
+| [job-agent-ammar](https://github.com/ammarfitwalla/job-agent-ammar) | Agentic job search assistant — scrapes listings, applies via Playwright, tracks via Google Sheets (Ollama, BeautifulSoup) |
+| [zania_ai](https://github.com/ammarfitwalla/zania_ai) | PDF extraction and Q&A agent with Slack integration (OpenAI, pdfplumber) |
+
+---
+
+### 🧠 Machine Learning & Deep Learning
+*PyTorch · Transformers · scikit-learn · TensorFlow · Keras*
+
+| Repo | Description |
+|------|-------------|
+| [DCCMA-Research-Paper-Implementation](https://github.com/ammarfitwalla/DCCMA-Research-Paper-Implementation) | Implementation of DCCMA-Net for fake news detection (PyTorch, Transformers, torchvision) |
 | [Forex_v1](https://github.com/ammarfitwalla/Forex_v1) | LSTM-based Forex trading bot deployed on AWS SageMaker |
-| [nikahnama_app](https://github.com/ammarfitwalla/nikahnama_app) | Digital nikahnama (marriage certificate) management app |
-| [surveillance](https://github.com/ammarfitwalla/surveillance) | Computer vision-based surveillance system |
-| [ai-smart-mirror](https://github.com/ammarfitwalla/ai-smart-mirror) | AI-powered smart mirror with face recognition and real-time overlays |
-| [face-recog](https://github.com/ammarfitwalla/face-recog) | Face recognition and identification |
-| [opencv_squats_counter](https://github.com/ammarfitwalla/opencv_squats_counter) | Real-time squat counter using OpenCV pose estimation |
-| [squats_counting_app](https://github.com/ammarfitwalla/squats_counting_app) | Mobile-friendly squat counting app |
-| [Multithreading-OpenCV](https://github.com/ammarfitwalla/Multithreading-OpenCV) | Multithreading with OpenCV for real-time video processing |
 | [ml-eng-test](https://github.com/ammarfitwalla/ml-eng-test) | Computer vision and object detection ML engineering test |
-| [blind_75](https://github.com/ammarfitwalla/blind_75) | Blind 75 LeetCode solutions |
 | [age_detector](https://github.com/ammarfitwalla/age_detector) | Age detection using deep learning |
-| [wall_detection](https://github.com/ammarfitwalla/wall_detection) | Wall detection using computer vision |
-| [sms_desktop_app](https://github.com/ammarfitwalla/sms_desktop_app) | Society Maintenance System desktop app |
-| [Society-Maintenance-System](https://github.com/ammarfitwalla/Society-Maintenance-System) | Full society maintenance management system |
+| [data-science](https://github.com/ammarfitwalla/data-science) | Data science notebooks and project portfolio |
 | [ny-complaint-analysis](https://github.com/ammarfitwalla/ny-complaint-analysis) | Analysis of NYC 311 complaint data |
-| [portfolio](https://github.com/ammarfitwalla/portfolio) | Personal portfolio website |
-| [zania_ai](https://github.com/ammarfitwalla/zania_ai) | AI project for Zania |
-| [epotha](https://github.com/ammarfitwalla/epotha) | — |
-| [Dewa](https://github.com/ammarfitwalla/Dewa) | — |
+
+---
+
+### 👁️ Computer Vision
+*OpenCV · face-recognition · NumPy*
+
+| Repo | Description |
+|------|-------------|
+| [surveillance](https://github.com/ammarfitwalla/surveillance) | Face-recognition based surveillance system (Django, OpenCV, face-recognition) |
+| [face-recog](https://github.com/ammarfitwalla/face-recog) | Face recognition and identification |
+| [opencv_squats_counter](https://github.com/ammarfitwalla/opencv_squats_counter) | Real-time squat counter using OpenCV |
+| [squats_counting_app](https://github.com/ammarfitwalla/squats_counting_app) | Squats counting app |
+| [Multithreading-OpenCV](https://github.com/ammarfitwalla/Multithreading-OpenCV) | Multithreading with OpenCV for real-time video processing |
+| [wall_detection](https://github.com/ammarfitwalla/wall_detection) | Wall detection using computer vision |
+
+---
+
+### 🌐 Web & Desktop Applications 
+*Django · HTML · CSS · Javascript · PyQt5*
+
+| Repo | Description |
+|------|-------------|
+| [Society-Maintenance-System](https://github.com/ammarfitwalla/Society-Maintenance-System) | Full society maintenance management system |
+| [sms_desktop_app](https://github.com/ammarfitwalla/sms_desktop_app) | Society Maintenance System desktop app |
+| [nikahnama_app](https://github.com/ammarfitwalla/nikahnama_app) | Digital nikahnama (marriage certificate) management app |
+
+---
+
+### 🧩 DSA & Misc
+| Repo | Description |
+|------|-------------|
+| [blind_75](https://github.com/ammarfitwalla/blind_75) | Blind 75 LeetCode solutions |
 
 ---
 
