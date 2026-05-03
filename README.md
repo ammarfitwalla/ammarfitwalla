@@ -23,7 +23,7 @@ Python · PyTorch · LangChain · LangGraph · FastAPI · Vertex AI · Gemini ·
 | [agentic-ai](https://github.com/ammarfitwalla/agentic-ai) | Experiments with agentic AI systems and multi-step reasoning |
 | [job-agent-ammar](https://github.com/ammarfitwalla/job-agent-ammar) | Agentic job search assistant — scrapes listings, applies via Playwright, tracks via Google Sheets (Ollama, BeautifulSoup) |
 | [zania_ai](https://github.com/ammarfitwalla/zania_ai) | PDF extraction and Q&A agent with Slack integration (OpenAI, pdfplumber) |
-
+| [agentic-ai-chatbot-db](https://github.com/ammarfitwalla/agentic-ai-chatbot-db) | Agentic AI Chatbot for Natural Language SQL Database Querying |
 ---
 
 ### 🧠 Machine Learning & Deep Learning
@@ -37,7 +37,7 @@ Python · PyTorch · LangChain · LangGraph · FastAPI · Vertex AI · Gemini ·
 | [age_detector](https://github.com/ammarfitwalla/age_detector) | Age detection using deep learning |
 | [data-science](https://github.com/ammarfitwalla/data-science) | Data science notebooks and project portfolio |
 | [ny-complaint-analysis](https://github.com/ammarfitwalla/ny-complaint-analysis) | Analysis of NYC 311 complaint data |
-| [agentic-ai-chatbot-db](https://github.com/ammarfitwalla/agentic-ai-chatbot-db) | Agentic AI Chatbot for Natural Language SQL Database Querying |
+
 ---
 
 ### 👁️ Computer Vision
