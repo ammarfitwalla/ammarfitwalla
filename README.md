@@ -37,7 +37,7 @@ Python · PyTorch · LangChain · LangGraph · FastAPI · Vertex AI · Gemini ·
 | [age_detector](https://github.com/ammarfitwalla/age_detector) | Age detection using deep learning |
 | [data-science](https://github.com/ammarfitwalla/data-science) | Data science notebooks and project portfolio |
 | [ny-complaint-analysis](https://github.com/ammarfitwalla/ny-complaint-analysis) | Analysis of NYC 311 complaint data |
-
+| [agentic-ai-chatbot-db](https://github.com/ammarfitwalla/agentic-ai-chatbot-db) | Agentic AI Chatbot for Natural Language SQL Database Querying |
 ---
 
 ### 👁️ Computer Vision
