@@ -1,6 +1,6 @@
 # Ammar Fitwalla
 
-AI/ML Engineer based in Mumbai. I build intelligent systems — from multi-agent pipelines and LLM-powered tools to computer vision apps. Currently working on Google Cloud AI acceleration at Cognizant.
+AI/ML Engineer based in Mumbai. Code is my skin. Currently working on Google Cloud AI acceleration at Cognizant.
 
 **Open to:** Freelance · Open Source · Full-time opportunities
 
