@@ -20,9 +20,7 @@ Python · PyTorch · LangChain · LangGraph · FastAPI · Vertex AI · Gemini ·
 | Repo | Description |
 |------|-------------|
 | [justitia-lens](https://github.com/ammarfitwalla/justitia-lens) | Multimodal forensic AI platform — cross-references police reports against bodycam footage using a three-agent architecture (Next.js, FastAPI, Gemini) |
-| [agentic-ai](https://github.com/ammarfitwalla/agentic-ai) | Experiments with agentic AI systems and multi-step reasoning |
 | [job-agent-ammar](https://github.com/ammarfitwalla/job-agent-ammar) | Agentic job search assistant — scrapes listings, applies via Playwright, tracks via Google Sheets (Ollama, BeautifulSoup) |
-| [zania_ai](https://github.com/ammarfitwalla/zania_ai) | PDF extraction and Q&A agent with Slack integration (OpenAI, pdfplumber) |
 | [agentic-ai-chatbot-db](https://github.com/ammarfitwalla/agentic-ai-chatbot-db) | Agentic AI Chatbot for Natural Language SQL Database Querying |
 ---
 
@@ -33,7 +31,6 @@ Python · PyTorch · LangChain · LangGraph · FastAPI · Vertex AI · Gemini ·
 |------|-------------|
 | [DCCMA-Research-Paper-Implementation](https://github.com/ammarfitwalla/DCCMA-Research-Paper-Implementation) | Implementation of DCCMA-Net for fake news detection (PyTorch, Transformers, torchvision) |
 | [Forex_v1](https://github.com/ammarfitwalla/Forex_v1) | LSTM-based Forex trading bot deployed on AWS SageMaker |
-| [ml-eng-test](https://github.com/ammarfitwalla/ml-eng-test) | Computer vision and object detection ML engineering test |
 | [age_detector](https://github.com/ammarfitwalla/age_detector) | Age detection using deep learning |
 | [data-science](https://github.com/ammarfitwalla/data-science) | Data science notebooks and project portfolio |
 | [ny-complaint-analysis](https://github.com/ammarfitwalla/ny-complaint-analysis) | Analysis of NYC 311 complaint data |
